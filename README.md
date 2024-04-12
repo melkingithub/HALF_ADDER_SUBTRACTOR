@@ -59,7 +59,10 @@ assign D = a ^ b;
 assign Bo = ~a & b;
 endmodule
 ```
-Developed by:MELKIN SAM.D RegisterNumber:212223220056
+Developed by:MELKIN SAM.D 
+
+RegisterNumber:212223220056
+
 **RTL Schematic**
 ![image](https://github.com/melkingithub/HALF_ADDER_SUBTRACTOR/assets/151421291/8b34a09b-6551-4fc7-9e9d-4f4a504febaa)
 
